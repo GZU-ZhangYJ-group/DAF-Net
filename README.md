@@ -1,8 +1,8 @@
-# Dynamic Degenerate Convolution and Harmonic Enhancement for Single Image Dehaze Network
+# A Frequency-Domain Dynamic Amplitude Filtering Method for Single-Image Dehazing with Harmony Enhancement
 
-Yabo Wu, Yongjun Zhang*
+Yabo Wu, Yongjun Zhang*, Ziyang Chen, Yong Zhao*
 
-> Code and trained models are available at [GitHub](https://github.com/GZU-ZhangYJ-group/DDHE-Net).
+> Code and trained models are available at [GitHub](https://github.com/GZU-ZhangYJ-group/DAF-Net).
 
 ## Installation
 The project is built with PyTorch 3.8, PyTorch 1.8.1. CUDA 10.2, cuDNN 7.6.5
