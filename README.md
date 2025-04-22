@@ -1,12 +1,11 @@
 # A Frequency-Domain Dynamic Amplitude Filtering Method for Single-Image Dehazing with Harmony Enhancement
 
-> The official implementation of "An Efficient and Mixed Heterogeneous Model for Image Restoration"
-
-> This paper is under review processing... We will release all codes and results after finishing the review.
-
 Yabo Wu, Yongjun Zhang*, Ziyang Chen, Yong Zhao*
 
-> Code and trained models are available at [GitHub](https://github.com/GZU-ZhangYJ-group/DAF-Net).
+~~~
+The official implementation of "A Frequency-Domain Dynamic Amplitude Filtering Method for Single-Image Dehazing with Harmony Enhancement".
+This paper is under review processing... We will release all codes and results after finishing the review.
+~~~
 
 ## Installation
 The project is built with PyTorch 3.8, PyTorch 1.8.1. CUDA 10.2, cuDNN 7.6.5
