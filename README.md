@@ -1,5 +1,9 @@
 # A Frequency-Domain Dynamic Amplitude Filtering Method for Single-Image Dehazing with Harmony Enhancement
 
+> The official implementation of "An Efficient and Mixed Heterogeneous Model for Image Restoration"
+
+> This paper is under review processing... We will release all codes and results after finishing the review.
+
 Yabo Wu, Yongjun Zhang*, Ziyang Chen, Yong Zhao*
 
 > Code and trained models are available at [GitHub](https://github.com/GZU-ZhangYJ-group/DAF-Net).
