@@ -2,7 +2,7 @@ import os
 import torch
 import argparse
 from torch.backends import cudnn
-from models.ChaIR import build_net
+from models.DAFNet import build_net
 from train import _train
 from eval import _eval
 
