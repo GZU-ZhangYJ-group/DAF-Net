@@ -2,7 +2,7 @@ import os
 import torch
 import argparse
 from torch.backends import cudnn
-from models.ChaIR import build_net
+from models.DAFNet import build_net
 from train import _train
 from eval import _eval
 
@@ -38,7 +38,7 @@ if __name__ == '__main__':
     # Directories
     parser.add_argument('--model_name', default='ChaIR_my_utils', type=str)
     parser.add_argument('--mode', default='train', choices=['train', 'test'], type=str)
-    parser.add_argument('--data_dir', type=str, default='/remote-home/wuyabo/datasets/Dehaze/reside-indoor/')
+    parser.add_argument('--data_dir', type=str, default='./datasets/Dehaze/reside-indoor/')
 
     # Train
     parser.add_argument('--batch_size', type=int, default=4)
